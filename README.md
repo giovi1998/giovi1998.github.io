@@ -1,5 +1,21 @@
-#Sito vettrina
-Benvenuti al mio Readme sulla creazione di un primo sito utilizzando solo Bootstrap, CSS e HTML!
+# Sito web
+In questo Readme voglio condividere con voi il mio ultimo progetto.
 
-#SitoWeb
-giovi1998.github.io
+# Desktop
+Ecco alcune immagini del sito come appare sul desktop:
+
+<img src=" " />
+Come si può vedere, il design è pulito e moderno. Ho utilizzato Bootstrap per la maggior parte degli stili e ho scelto una palette di colori rilassante.
+          
+# Mobile
+Naturalmente, il sito deve essere anche facile da utilizzare sui dispositivi mobili. Ecco alcune immagini del sito sullo smartphone:
+
+<img src=" " />
+
+Ho cercato di mantenere lo stesso design pulito e moderno del desktop, ma con un'esperienza utente ottimizzata per il mobile.
+
+# Link al sito
+
+Se volete vedere il sito in azione, potete visitarlo al seguente indirizzo: <link href="https://giovi1998.github.io/" />
+
+Grazie per aver letto questo Readme e spero che vi sia piaciuto il mio progetto!
