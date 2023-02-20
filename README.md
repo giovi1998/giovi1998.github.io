@@ -21,7 +21,7 @@ Ho cercato di mantenere lo stesso design pulito e moderno del desktop, ma con un
 
 # Link al sito
 
-Se volete vedere il sito in azione, potete visitarlo al seguente indirizzo: <link> https://giovi1998.github.io/ <!link>
+Se volete vedere il sito in azione, potete visitarlo al seguente indirizzo: <link> https://giovi1998.github.io/ <link>
 
 
 Grazie per aver letto questo Readme e spero che vi sia piaciuto il mio progetto!
